@@ -21,6 +21,7 @@ DHCP Server, DHCP Excluded Address, DHCP Relay, Routing OSPF Multi Area, Passive
 
 - NTP Server, DNS Server, DHCP Server, Email Server,
 
+Linkedin : https://www.linkedin.com/in/fathin-naufal/
 
 
 Solid networks through robust networking, accurate routing, and optimal switching.
